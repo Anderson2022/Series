@@ -1,0 +1,20 @@
+{
+    "name": "dompixel/laravel",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Dompixel\\Laravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ANDERSON DA SILVA FERNANDES",
+            "email": "64322982+Anderson2022@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.7",
+        "symfony/dom-crawler":"^4.2",
+        "laravel/framework": "^10.16"
+    }
+}
